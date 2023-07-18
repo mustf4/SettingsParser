@@ -1,0 +1,11 @@
+UserName:admin;
+Password:""super%^&*333password;
+DNSName:SomeName;
+
+TimeToLive:4;
+ClusterSize:2;
+PortNumber:2222;
+
+IsEnabled:true;
+EnsureTransaction:false;
+PersistentStorage:false;
